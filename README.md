@@ -9,12 +9,12 @@ I am Mahdi, a self-taught Backend developer from Iran. I take pleasure in acquir
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdkarimii&layout=compact&theme=transparent&hide_border=true" />
 </a
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://leetcode-stats.vercel.app/api?username=mhdkarimii&theme=dark" />
-</a>
 </div>
 
 
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://leetcode-stats.vercel.app/api?username=mhdkarimii&theme=dark" />
+</a> -->
 ---
 
 <div>
