@@ -1,4 +1,4 @@
- ## Hi! 
+ ## Hi
 
 I am Mahdi, a self-taught Backend developer from Iran. I take pleasure in acquiring knowledge of programming languages and new frameworks, enabling me to stay abreast of the latest developments in the tech world. 
 
